@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-curso",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de Js com Tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianobarauna/estudo-CursoJsTddPratica.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "LucianoBarauna <baraunaluciano@gmail.com> (http://lucianobarauna.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucianobarauna/estudo-CursoJsTddPratica/issues"
+  },
+  "homepage": "https://github.com/lucianobarauna/estudo-CursoJsTddPratica#readme"
+}
